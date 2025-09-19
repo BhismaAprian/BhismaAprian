@@ -46,13 +46,7 @@
 
 ---
 
-### 📊 My GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Bhisma's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=dracula" alt="Top Languages"/>
-</p>
+### 📊 My Wakatime Stats
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bhisma&layout=compact&theme=dark" alt="Harlok's WakaTime stats"/>
