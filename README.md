@@ -22,4 +22,5 @@ I'm **Bhisma Aprian Prayogi**
 
 ---
 
+[![Bhisma's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bhisma)](https://github.com/anuraghazra/github-readme-stats)
 ⭐️ *“Keep learning, keep building, keep growing.”*  
