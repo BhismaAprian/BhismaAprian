@@ -49,9 +49,9 @@
 ### 📊 My GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhisma&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Bhisma's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bhismaaprian&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Bhisma's GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhisma&layout=compact&langs_count=8&theme=dracula" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhismaaprian&layout=compact&langs_count=8&theme=dracula" alt="Top Languages"/>
 </p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
