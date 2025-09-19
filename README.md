@@ -16,9 +16,12 @@ I'm **Bhisma Aprian Prayogi**
 
 ---
 
-### 📫 Connect with me
-- GitHub: [BhismaAprian](https://github.com/BhismaAprian)  
-- LinkedIn: [Bhisma Aprian Prayogi](https://id.linkedin.com/in/bhisma-aprian-prayogi-28b821286)  
+### 📫 Connect with me  
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BhismaAprian)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://id.linkedin.com/in/bhisma-aprian-prayogi-28b821286)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bhismaaprian/)  
 
 ---
+
 ⭐️ *“Keep learning, keep building, keep growing.”*  
