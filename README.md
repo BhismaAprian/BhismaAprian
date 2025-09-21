@@ -16,11 +16,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<p>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7F7F7&center=true&width=435&lines=Informatics+Student+at+Institut+Teknologi+Kalimantan;Passionate+about+Software+Development;Always+Learning+and+Building" alt="Typing SVG" />
-  </a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=65&section=header&text=Informatics%20Student%20at%20Institut%20Teknologi%20Kalimantan&fontSize=18&fontColor=fff&animation=fadeIn" />
 </p>
+
 
 ---
 
