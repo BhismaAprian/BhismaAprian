@@ -17,7 +17,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=65&section=header&text=Informatics%20Student%20at%20Institut%20Teknologi%20Kalimantan&fontSize=18&fontColor=fff&animation=fadeIn" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Informatics+Student+at+Institut+Teknologi+Kalimantan;Passionate+about+Software+Development;Always+Learning+and+Building" />
 </p>
 
 
