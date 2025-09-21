@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7F7F7&center=true&width=435&lines=Informatics+Student+at+Institut+Teknologi+Kalimantan;Passionate+about+Software+Development;Always+Learning+and+Building" alt="Typing SVG" />
+  </a>
+</p>
+
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -17,7 +24,9 @@
 </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7F7F7&center=true&width=435&lines=An+Informatics+Student+from+Indonesia;Passionate+about+Software+Development;Always+Learning+and+Building" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7F7F7&center=true&width=435&lines=Informatics+Student+at+Institut+Teknologi+Kalimantan;Passionate+about+Software+Development;Always+Learning+and+Building" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
@@ -25,7 +34,7 @@
 ### 👨‍💻 About Me
 
 <p>
-  💡 I'm an Informatics student from Balikpapan, Indonesia, with a strong passion for exploring the vast world of technology.
+  💡 I'm an Informatics student at <b>Institut Teknologi Kalimantan</b>, with a strong passion for exploring the vast world of technology.
   <br/>
   🚀 I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
   <br/>
