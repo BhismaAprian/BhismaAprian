@@ -1,10 +1,3 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7F7F7&center=true&width=435&lines=Informatics+Student+at+Institut+Teknologi+Kalimantan;Passionate+about+Software+Development;Always+Learning+and+Building" alt="Typing SVG" />
-  </a>
-</p>
-
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
