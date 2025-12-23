@@ -35,26 +35,7 @@
   🤝 Actively involved in campus organizations and competitions, always eager to collaborate and learn from others.
 </p>
 
----
 
-### 🛠️ My Tech Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,java,python,mysql,mongodb,git,vscode,figma" />
-  </a>
-</p>
-
----
-
-### 📊 My Wakatime Stats
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bhisma&layout=compact&theme=dark" alt="Harlok's WakaTime stats"/>
-  </a>
-</p>
-
----
 
 ### 📫 Let's Connect!
 
